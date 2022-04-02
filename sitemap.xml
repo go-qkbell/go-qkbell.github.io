@@ -1,58 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://go-qkbell.github.io/posts/blog/first/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://go-qkbell.github.io/categories/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://go-qkbell.github.io/tags/devlog/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://go-qkbell.github.io/categories/devlog/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://go-qkbell.github.io/posts/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://go-qkbell.github.io/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://go-qkbell.github.io/tags/readme/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://go-qkbell.github.io/categories/readme/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://go-qkbell.github.io/tags/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://go-qkbell.github.io/archives/</loc>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://go-qkbell.github.io/search/</loc>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
+&lt;?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+
+<url>
+  <loc>https://go-qkbell.github.io/</loc>
+  <lastmod>2022-04-02T15:12:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://go-qkbell.github.io/archives/</loc>
+  <lastmod>2022-04-02T15:12:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://go-qkbell.github.io/categories/</loc>
+  <lastmod>2022-04-02T15:12:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://go-qkbell.github.io/search/</loc>
+  <lastmod>2022-04-02T15:12:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://go-qkbell.github.io/posts/blog/first/</loc>
+  <lastmod>2022-04-02T15:12:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://go-qkbell.github.io/categories/devlog/</loc>
+  <lastmod>2022-04-02T15:12:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://go-qkbell.github.io/categories/readme/</loc>
+  <lastmod>2022-04-02T15:12:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://go-qkbell.github.io/posts/</loc>
+  <lastmod>2022-04-02T15:12:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://go-qkbell.github.io/tags/readme/</loc>
+  <lastmod>2022-04-02T15:12:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://go-qkbell.github.io/tags/devlog/</loc>
+  <lastmod>2022-04-02T15:12:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://go-qkbell.github.io/tags/</loc>
+  <lastmod>2022-04-02T15:12:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
