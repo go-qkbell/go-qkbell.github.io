@@ -5,7 +5,16 @@
     <link>https://go-qkbell.github.io/posts/</link>
     <description>Recent content in Posts on qkbell&#39;s Devlog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://go-qkbell.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://go-qkbell.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[DataStructure] Linked List</title>
+      <link>https://go-qkbell.github.io/posts/data_structure/linked_list/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://go-qkbell.github.io/posts/data_structure/linked_list/</guid>
+      <description>What is linked list</description>
+    </item>
+    
     <item>
       <title>[DataStructure] Array &amp; Slice</title>
       <link>https://go-qkbell.github.io/posts/data_structure/array_slice/</link>
