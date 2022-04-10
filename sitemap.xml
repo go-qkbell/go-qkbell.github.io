@@ -7,6 +7,11 @@
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
+    <loc>https://go-qkbell.github.io/posts/study/hololive1/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url><url>
     <loc>https://go-qkbell.github.io/posts/data_structure/array_slice/</loc>
     <lastmod>2022-04-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -18,7 +23,7 @@
     <priority>1</priority>
   </url><url>
     <loc>https://go-qkbell.github.io/posts/blog/first/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
@@ -72,43 +77,63 @@
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
+    <loc>https://go-qkbell.github.io/tags/discord/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://go-qkbell.github.io/categories/discord/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://go-qkbell.github.io/tags/hololive/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://go-qkbell.github.io/categories/hololive/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url><url>
     <loc>https://go-qkbell.github.io/tags/kr/</loc>
-    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
     <loc>https://go-qkbell.github.io/categories/kr/</loc>
-    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
     <loc>https://go-qkbell.github.io/tags/study/</loc>
-    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
     <loc>https://go-qkbell.github.io/categories/study/</loc>
-    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
     <loc>https://go-qkbell.github.io/tags/devlog/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
     <loc>https://go-qkbell.github.io/categories/devlog/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
     <loc>https://go-qkbell.github.io/tags/readme/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
     <loc>https://go-qkbell.github.io/categories/readme/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>

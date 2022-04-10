@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Discord on qkbell&#39;s Devlog</title>
+    <link>https://go-qkbell.github.io/categories/discord/</link>
+    <description>Recent content in Discord on qkbell&#39;s Devlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://go-qkbell.github.io/categories/discord/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Study] Hololive Discord Bot 제작기 #1</title>
+      <link>https://go-qkbell.github.io/posts/study/hololive1/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://go-qkbell.github.io/posts/study/hololive1/</guid>
+      <description>홀로라이브 디스코드 봇 제작기</description>
+    </item>
+    
+  </channel>
+</rss>

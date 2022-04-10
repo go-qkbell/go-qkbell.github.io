@@ -5,14 +5,23 @@
     <link>https://go-qkbell.github.io/categories/study/</link>
     <description>Recent content in Study on qkbell&#39;s Devlog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://go-qkbell.github.io/categories/study/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://go-qkbell.github.io/categories/study/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Study] Go 한국어 자료 모음</title>
+      <title>[Study] Hololive Discord Bot 제작기 #1</title>
+      <link>https://go-qkbell.github.io/posts/study/hololive1/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://go-qkbell.github.io/posts/study/hololive1/</guid>
+      <description>홀로라이브 디스코드 봇 제작기</description>
+    </item>
+    
+    <item>
+      <title>[Study] Go 한국어/영어 자료 모음</title>
       <link>https://go-qkbell.github.io/posts/study/go_study/</link>
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://go-qkbell.github.io/posts/study/go_study/</guid>
-      <description>Go 한국어 자료 모음</description>
+      <description>Go 한국어/영어 자료 모음</description>
     </item>
     
   </channel>
