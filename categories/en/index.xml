@@ -5,14 +5,23 @@
     <link>https://go-qkbell.github.io/categories/en/</link>
     <description>Recent content in EN on qkbell&#39;s Devlog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://go-qkbell.github.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://go-qkbell.github.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[DataStructure] Hash Table</title>
+      <link>https://go-qkbell.github.io/posts/data_structure/hash_table/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://go-qkbell.github.io/posts/data_structure/hash_table/</guid>
+      <description>What is Hash Table</description>
+    </item>
+    
     <item>
       <title>[DataStructure] Doubly Linked List</title>
       <link>https://go-qkbell.github.io/posts/data_structure/doubly_linked_list/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://go-qkbell.github.io/posts/data_structure/doubly_linked_list/</guid>
-      <description>What is linked list</description>
+      <description>What is doubly linked list</description>
     </item>
     
     <item>
@@ -21,7 +30,7 @@
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://go-qkbell.github.io/posts/data_structure/singly_linked_list/</guid>
-      <description>What is linked list</description>
+      <description>What is singly linked list</description>
     </item>
     
     <item>
